@@ -17,7 +17,7 @@
     "hapi": "^18.1.0",
     "pg": "^7.12.1",
     "pg-hstore": "^2.3.3",
-    "sequelize": "^5.18.4"
+    "sequelize": "^6.29.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.0",
